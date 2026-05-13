@@ -5,7 +5,7 @@ from pathlib import Path
 
 # URL 1개 또는 여러 개 입력 가능
 YOUTUBE_URLS = [
-    "https://youtu.be/gMTNPms9Q88",
+    "https://www.youtube.com/watch?v=_fpti0g3UAE",
 ]
 
 OUT_DIR = "input_txt"
